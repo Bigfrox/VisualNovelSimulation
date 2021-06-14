@@ -1,0 +1,1 @@
+setx path "%PATH%;C:\Users\%USERNAME%\Desktop\ship\opencv_3.4.8\bin\Release;C:\Users\%USERNAME%\Desktop\ship\opencv_3.4.8\bin\Debug" -m
