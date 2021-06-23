@@ -16,3 +16,5 @@ setx Path "%PATH%;C:\Users\%USERNAME%\Desktop\ship\opencv_3.4.8\bin\Debug" -m
 아이템 착용 Z
 아이템 탭 이동 X(취소키)
 웹캠 가위바위보 인식 후 엔터눌러야함.
+
+.7z파일을 ship 디렉토리 내에서 압축 풀어야함.
